@@ -1,0 +1,12 @@
+Flask==1.1.2
+jupyterlab==2.2.6
+matplotlib
+notebook
+numpy
+pandas
+python-dotenv
+scikit-learn
+seaborn
+tensorflow
+wordcloud
+Keras-Preprocessing
