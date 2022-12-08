@@ -1,7 +1,6 @@
 ## An SMS Spam detector built with Keras, Flask and Twilio. 
 
-<img width="1304" alt="spam-demo" src="https://user-images.githubusercontent.com/64016811/206375902-4168c230-5d37-472d-825e-b5c4bd6450a3.png">
-
+![image](https://user-images.githubusercontent.com/64016811/206378461-e17da9d9-46fd-4efe-8429-4ab8c4e8ead7.png)
 
 -----------
 To run this application, clone the repo:
@@ -33,8 +32,8 @@ Next, send a couple of Spam and Non-spam messages to your registered twilio phon
 
 **For Non-Spam:**
 
-- I just sent my records to Mainak, tell her to text me the address of the school
-- Testing this API server
+- Sent from your Twilio trial account - Hey Mainak I am demo man
+- Hello Mainak, this is a good news
 
 **For Spam:**
 - Congratulations! You have won a lottery of 12000 dollars from Elon Musk. Call 987654321 to confirm.
