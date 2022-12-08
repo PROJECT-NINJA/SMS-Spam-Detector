@@ -33,11 +33,11 @@ Next, send a couple of Spam and Non-spam messages to your registered twilio phon
 
 **For Non-Spam:**
 
-- I just sent my records to Sophia, tell her to text me the address of the school
+- I just sent my records to Mainak, tell her to text me the address of the school
 - Testing this API server
 
 **For Spam:**
-- We know someone who likes you. Call 0816767576 to find out who.
+- Congratulations! You have won a lottery of 12000 dollars from Elon Musk. Call 987654321 to confirm.
 
 Start the server by running `python app.py` in the src folder
 
